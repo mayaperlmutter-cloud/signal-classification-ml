@@ -1,4 +1,3 @@
-# signal-classification-ml
 # Signal Classification Using Machine Learning
 
 ## Overview
